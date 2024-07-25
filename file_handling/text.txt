@@ -1,0 +1,7 @@
+Hello there!
+
+This is a sample text file created using Python.
+We can write multiple lines of text in this file.
+Python provides easy-to-use methods for file handling.
+
+Cheers!
